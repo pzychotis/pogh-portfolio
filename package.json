@@ -1,10 +1,8 @@
 {
   "name": "pogh-portfolio",
   "version": "1.0.0",
-  "description": "A portfolio created in html, css, and javascript.",
-  "scripts": {
-    "start": "webpack-dev-server --config=./webpack.config.js"
-  },
+  "description": "A portfolio created in html, css, and javascript utilizing the lit framework.",
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/pzychotis/pogh-portfolio.git"
